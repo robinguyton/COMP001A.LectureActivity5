@@ -1,7 +1,5 @@
 body {background-color: beige;
 color: black
-
-
     
 ;}
 
@@ -31,3 +29,7 @@ h2 {text-align: center;
   }
 
   main {text-align: center;}
+
+  a:hover {
+    color: #f33506;
+  }
