@@ -3,6 +3,8 @@ color: black
     
 ;}
 
+
+
 h1 {text-align: center;
     padding: 3px;
     background-color: beige;
@@ -21,6 +23,8 @@ h2 {text-align: center;
     height: 30px
 }
 
+
+
 .center {
     display: block;
     margin-left: auto;
@@ -28,8 +32,17 @@ h2 {text-align: center;
     width: 50%;
   }
 
-  main {text-align: center;}
 
-  a:hover {
+  
+main {text-align: center;}
+
+
+
+a:hover {
     color: #f33506;
   }
+
+
+h1, h2 {background-color: aqua;
+    height: fit-content;
+}
