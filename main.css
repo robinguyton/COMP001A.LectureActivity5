@@ -1,7 +1,17 @@
+body {background-color: beige;
+color: black
+
 
     
-.internal-css {
-    color:aqua;
-    background-color: black;
+;}
 
+h1 {text-align: center;
+    padding: 3px;
+    background-color: beige;
+    color: black ;
+    border-radius: 50px;
+    height: 50px
 }
+
+
+
